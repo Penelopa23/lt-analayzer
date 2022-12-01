@@ -1,4 +1,4 @@
-package com.utils.analyzer;
+package com.utils.analyzer.utils;
 
 import lombok.Getter;
 import lombok.SneakyThrows;

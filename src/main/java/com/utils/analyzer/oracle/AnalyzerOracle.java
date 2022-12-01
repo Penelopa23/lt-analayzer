@@ -3,9 +3,9 @@ package com.utils.analyzer.oracle;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
-import com.utils.analyzer.Connections;
-import com.utils.analyzer.HeaderType;
-import com.utils.analyzer.TimedReport;
+import com.utils.analyzer.utils.Connections;
+import com.utils.analyzer.reportUtils.HeaderType;
+import com.utils.analyzer.reportUtils.TimedReport;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

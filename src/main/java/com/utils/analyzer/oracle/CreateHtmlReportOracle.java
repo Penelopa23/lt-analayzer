@@ -1,8 +1,8 @@
 package com.utils.analyzer.oracle;
 
 
-import com.utils.analyzer.CreateReport;
-import com.utils.analyzer.TimedReport;
+import com.utils.analyzer.reportUtils.CreateReport;
+import com.utils.analyzer.reportUtils.TimedReport;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;

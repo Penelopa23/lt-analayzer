@@ -1,5 +1,6 @@
-package com.utils.analyzer;
+package com.utils.analyzer.reportUtils;
 
+import com.utils.analyzer.utils.Types;
 import lombok.Getter;
 import lombok.Setter;
 

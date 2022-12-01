@@ -1,6 +1,6 @@
 package com.utils.analyzer.postgre;
 
-import com.utils.analyzer.Types;
+import com.utils.analyzer.utils.Types;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

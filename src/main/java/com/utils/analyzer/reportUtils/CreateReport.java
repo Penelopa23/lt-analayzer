@@ -1,4 +1,4 @@
-package com.utils.analyzer;
+package com.utils.analyzer.reportUtils;
 
 import java.util.Date;
 
